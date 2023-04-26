@@ -12,6 +12,9 @@ langchain = "^0.0.142"
 load-dotenv = "^0.1.0"
 unstructured = "^0.5.12"
 tiktoken = "^0.3.3"
+rich = "^13.3.4"
+transformers = "^4.28.1"
+pypdf = "^3.8.1"
 
 [tool.poetry.dev-dependencies]
 

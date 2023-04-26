@@ -1,4 +1,5 @@
 .env
-textbooks
+texts
 results
 __pycache__
+summary/outputs/
