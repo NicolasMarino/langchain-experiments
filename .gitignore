@@ -1,0 +1,5 @@
+.env
+texts
+results
+__pycache__
+summary/outputs/
