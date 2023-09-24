@@ -5,7 +5,7 @@ description = ""
 authors = ["Nicolás Marino <nicolasmarino.17@gmail.com>"]
 license = "MIT"
 packages = [
-    { include = "langchain" }, 
+    { include = "langchain_experiments" }, 
 ]
 
 [tool.poetry.dependencies]
